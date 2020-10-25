@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/WebGen.BookStore/.vs/WebGen.BookStore
+/WebGen.BookStore/WebGen.BookStore/bin/Debug/netcoreapp3.1
+/WebGen.BookStore/WebGen.BookStore/obj
+/WebGen.BookStore/WebGen.BookStore.sln
